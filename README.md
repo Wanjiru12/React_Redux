@@ -29,7 +29,7 @@ There are no known bugs.
 - CSS
 - Javascript
 - React
-  -JSX
+- JSX
 
 ## Support and contact details
 
